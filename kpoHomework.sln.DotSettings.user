@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=87e9e773_002D466b_002D4d10_002D8671_002D6a9431c82c99/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetContactZooAnimals_ReturnsOnlyContactAnimals" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D472F5CE-5D59-4C51-9C5D-FA7F7B53A3D2::net9.0::kpoHomework.Tests.ZooTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e9846c6a_002De71c_002D433c_002Daa8f_002D5b91bcf59ba1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetContactZooAnimals_ReturnsOnlyContactAnimals #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D472F5CE-5D59-4C51-9C5D-FA7F7B53A3D2::net9.0::kpoHomework.Tests.ZooTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eef03c80_002Dfde1_002D480e_002Dae62_002Dff90c87d0db9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ZooTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D472F5CE-5D59-4C51-9C5D-FA7F7B53A3D2::net9.0::kpoHomework.Tests.ZooTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
